@@ -19,7 +19,7 @@ public class LLamadaServicio {
 
 	public String request ( String pUrl, String pUsuario, String pPwd, String pXml)   {
 		
-		//System.out.println(">>>>>>>>>>>>>>>>>>>>>>> Vamos a enviar."+ pXml);
+		//System.out.println("victor >>>>>>>>>>>>>>>>>>>>>> Vamos a enviar."+ pXml);
 		
 		String resultado = "";
 		
